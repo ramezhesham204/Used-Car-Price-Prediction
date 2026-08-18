@@ -49,4 +49,4 @@ The dataset (`Used_Car_Prices.csv`) consists of **8,128 records** and **5 featur
 Install the required Python dependencies:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn gradio
